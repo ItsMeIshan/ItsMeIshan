@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ItsMeIshan
+- 👋 Hi, I’m Ishan
 - 👀 I’m interested in Web devlopment
-- 🌱 I’m currently learning react framework and learning about opensource contributions.
+- 🌱 I’m currently learning react and learning about opensource contributions.
 - 📫 How to reach me 
 Email: soni.99ishan@gmail.com
 linkedin: https://www.linkedin.com/in/ishan-soni-892aaa1a8/
